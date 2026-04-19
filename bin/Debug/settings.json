@@ -1,0 +1,9 @@
+{
+  "Enabled": true,
+  "DelayEnabled": true,
+  "DelayMs": 3100,
+  "BlockChat": false,
+  "MainHandle": 1837158,
+  "SecondHandle": 329196,
+  "BlockedKeys": []
+}

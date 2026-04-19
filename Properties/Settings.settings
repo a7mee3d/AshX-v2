@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AshX.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MainHandle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(empty)</Value>
+    </Setting>
+    <Setting Name="SecondHandle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(empty)</Value>
+    </Setting>
+    <Setting Name="DelayMs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="EnableMirroring" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EnableDelay" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BlockChat" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UserBlockedKeys" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(empty)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
